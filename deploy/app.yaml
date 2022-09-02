@@ -1,0 +1,3 @@
+runtime: java11
+entrypoint: java -jar example-server.jar
+# service: example-scala-service
